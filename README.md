@@ -28,5 +28,5 @@ We use `while` loops to compare input strings with board data, locating target i
 - This ensures items are correctly associated with their respective lists.
 
 ## Authors
-- **Pranav**
+- **Pranav Aravind (Me)**
 - **Joey**
