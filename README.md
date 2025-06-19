@@ -1,6 +1,5 @@
 # Assignment 3 Implementation Details
-
-Our program implements a **Kanban board** using **linked lists**. It consists of two structures:
+Created a **Kanban board** in C using **linked lists**. The board consists of two structures:
 
 - **Lists**: Each list has a `next` pointer, linking it to the next list.
 - **Items**: Items are linked to lists through `itemPtr`, ensuring correct item-list association.
@@ -26,7 +25,3 @@ We use `while` loops to compare input strings with board data, locating target i
 - A `while` loop (`while(current != NULL)`) iterates through lists, printing `current->name`.
 - A pointer accesses each list's items, which are printed using another `while(ptr != NULL)` loop.
 - This ensures items are correctly associated with their respective lists.
-
-## Authors
-- **Pranav Aravind (Me)**
-- **Joey**
