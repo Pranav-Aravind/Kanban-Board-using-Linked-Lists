@@ -1,5 +1,5 @@
 # Kanban Board
-Created a **Kanban board** in C using **linked lists**. The board consists of two structures:
+Created a **Kanban board** using **linked lists**. The board consists of two structures:
 
 - **Lists**: Each list has a `next` pointer, linking it to the next list.
 - **Items**: Items are linked to lists through `itemPtr`, ensuring correct item-list association.
