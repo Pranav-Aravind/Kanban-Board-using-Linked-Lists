@@ -1,4 +1,4 @@
-# Assignment 3 Implementation Details
+# Kanban Board
 Created a **Kanban board** in C using **linked lists**. The board consists of two structures:
 
 - **Lists**: Each list has a `next` pointer, linking it to the next list.
